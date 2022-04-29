@@ -1,6 +1,6 @@
-### Hi there, I'm Paul! 👋
+# Hi there, I'm Paul! 👋
 
-# Student in computer science at epfl | developer 
+### Student in computer science at epfl | developer 
 
 📧 : nadal.paul@gmail.com
 
