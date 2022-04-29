@@ -10,9 +10,7 @@
 📧 : nadal.paul@gmail.com
 
 <p align="left"> 
-    <a href="https://linkedin.com/in/paul-nadal" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> aaa
-    </a>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="15" width="15" /> : https://linkedin.com/in/paul-nadal
 </p>
 
 <!--
