@@ -14,7 +14,7 @@
 </p>
 
 <p align="left"> 
-        <img src="https://user-images.githubusercontent.com/58035866/166061976-6c30be23-b59a-4840-bfe0-27444503cb4b.png" alt="linkedin" height="20" width="20" /> : Y4KuFR#7638
+        <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="linkedin" height="20" width="20" /> : Y4KuFR#7638
 </p>
 
 <!--
