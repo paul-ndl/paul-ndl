@@ -1,4 +1,5 @@
 ![build](https://img.shields.io/badge/build-passing-green)
+![language](https://img.shields.io/badge/language-english-orange)
 
 # Hi there, I'm Paul! 👋
 
