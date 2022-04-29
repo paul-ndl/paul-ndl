@@ -1,3 +1,5 @@
+![build](https://img.shields.io/badge/build-passing-green)
+
 # Hi there, I'm Paul! 👋
 
 ### Student in computer science at epfl | developer 
