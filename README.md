@@ -5,12 +5,16 @@
 
 ### Student in computer science at EPFL | developer 
 
-👨‍💻 Currently working on the development of the Host me application (course project)
+👨‍💻 : I'm currently working on the development of the Host me application (course project)
 
 📧 : nadal.paul@gmail.com
 
 <p align="left"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /> : https://linkedin.com/in/paul-nadal
+</p>
+
+<p align="left"> 
+        <img src="https://user-images.githubusercontent.com/58035866/166061976-6c30be23-b59a-4840-bfe0-27444503cb4b.png" alt="linkedin" height="20" width="20" /> : Y4KuFR#7638
 </p>
 
 <!--
