@@ -9,7 +9,7 @@
 
 📧 : nadal.paul@gmail.com
 
-<p style="margin: 0; display: inline; align-items: center;">  
+<p style="display: flex; justify-content: space-between; align-items: center;">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="linkedin" height="15" width="15" /> 
     <p>: https://www.linkedin.com/in/paul-nadal/</p>
 </p>
