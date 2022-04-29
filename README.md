@@ -5,7 +5,7 @@
 
 ### Student in computer science at epfl | developer 
 
-Currently working on the development of the Host me application (course project)
+👨‍💻 Currently working on the development of the Host me application (course project)
 
 📧 : nadal.paul@gmail.com
 
