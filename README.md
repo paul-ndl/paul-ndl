@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Paul! 👋
+
+# Student in computer science at epfl | developer 
+
+📧 : nadal.paul@gmail.com
 
 <!--
 **paul-ndl/paul-ndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
