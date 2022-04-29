@@ -3,7 +3,7 @@
 
 # Hi there, I'm Paul! 👋
 
-### Student in computer science at epfl | developer 
+### Student in computer science at EPFL | developer 
 
 👨‍💻 Currently working on the development of the Host me application (course project)
 
