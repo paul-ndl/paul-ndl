@@ -9,9 +9,9 @@
 
 📧 : nadal.paul@gmail.com
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="15" width="15" /> https://www.linkedin.com/in/paul-nadal/
-    
-</a>
+<p align="center">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="linkedin" height="15" width="15" /> : https://www.linkedin.com/in/paul-nadal/
+</p>
 
 <!--
 **paul-ndl/paul-ndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
