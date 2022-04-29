@@ -1,9 +1,9 @@
 ![build](https://img.shields.io/badge/build-passing-green)
 ![language](https://img.shields.io/badge/language-english-orange)
 
-# Hi there, I'm Paul! 👋
+[center] # Hi there, I'm Paul! 👋 [/center]
 
-### Student in computer science at EPFL | developer 
+[center] ### Student in computer science at EPFL | developer [/center]
 
 👨‍💻 : I'm currently working on the development of the Host me application (course project)
 
